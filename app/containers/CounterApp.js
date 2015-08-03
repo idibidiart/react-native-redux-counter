@@ -1,5 +1,5 @@
 // This is the smart component, which binds actions passed down through children
-// passed as props in the action const below, on line 21.
+// passed as props in the action const below, on line 24.
 // the syntax for this is the connector code below
 // note how the actions are passed in by being bound, so we can change the actions
 // passed in by changing the file/variable read from
